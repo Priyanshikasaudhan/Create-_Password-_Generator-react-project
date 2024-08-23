@@ -38,7 +38,8 @@ function App() {
 
   return (
     <>
-      <div className="w-full max-w-md  shadow-md rounded-lg px-10  py-10 mx-96 text-orange-500    bg-gradient-to-r from-violet-500 to-fuchsia-500">
+      <div className="w-full max-w-md  shadow-md rounded-lg px-10  py-10 mx-96 
+       text-orange-500 bg-gradient-to-r from-violet-500 to-fuchsia-500 align-middle">
         <h3 className="text-white text-center my-3 text-2xl">Password Generator</h3>
         {/* password div */}
         <div className="flex shadow rounded-lg overflow-hidden mb-4">
